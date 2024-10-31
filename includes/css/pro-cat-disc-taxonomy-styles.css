@@ -1,0 +1,27 @@
+.pro-cat-disc-sel-disc-type {
+    width: 100%;
+}
+
+.pcd-cat-disc-sel-disc-type {
+    width: 95%;
+}
+
+.wcd-product-add-cat-desc {
+    background-color: #6b6be8;
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
+
+.wcd-product-add-cat-desc a {
+    color: #fff;
+    font-weight: bold;
+    transition: padding 100ms, font-size 100ms;
+}
+
+.wcd-product-add-cat-desc a:hover {
+	padding: 10px 0;
+    font-size: 16px;
+}
